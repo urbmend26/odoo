@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "C:\\Sources\\Akurey\\fe-odoo"
+		},
+		{
+			"path": "C:\\Sources\\Akurey\\ThirdParty"
 		}
 	],
 	"settings": 
@@ -22,7 +25,7 @@
 			"${workspaceRoot}/odoo/addons",
 			"${workspaceRoot}/addons",
 			"${workspaceRoot}/custom/addons",
-			"C:\\Souces\\Akurey\\ak-odoo"
+			"C:\\Souces\\Akurey\\AK-Odoo"
 		],
 		//"python.linting.pylintPath": "optional: path to python use if you have environment path",
 		"python.linting.enabled": false,
